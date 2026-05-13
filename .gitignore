@@ -1,0 +1,23 @@
+# 历史战绩数据（含个人隐私）
+*_history.json
+
+# 构建产物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# 桌面端入口（不在 Railway 使用）
+main.py
+启动.cmd
+
+# 环境
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/

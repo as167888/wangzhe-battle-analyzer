@@ -1,0 +1,7 @@
+装备接口：
+
+https://pvp.qq.com/web201605/js/item.json
+
+英雄接口：
+
+https://pvp.qq.com/web201605/js/herolist.json
